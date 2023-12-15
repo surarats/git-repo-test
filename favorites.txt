@@ -1,3 +1,6 @@
 kfc
 mk
 mc
+a
+b
+c
